@@ -148,3 +148,11 @@ hr {
 .footer ul{
     padding-inline-start: 0px;
 }
+
+.no-margin-bottom{
+  margin-bottom: 0;
+}
+
+.no-margin{
+  margin: 0;
+}
